@@ -1,0 +1,32 @@
+jonathan0-5richard0-5hi0-5richard:0-5
+Richard:1-5
+Hieu:1-5
+richard:0-5
+howard:0-5
+howard:0-5
+hi:0-5
+hi:0-5
+hi:0-5
+richard:1-5
+how:1-5
+how:0-5
+richard:0-5
+jon:0-5
+jonathan:0-computer:5
+Richard:0 computer:5
+richard:0 computer:5
+richard:5 computer:1
+ricahrd:1 computer:5
+riuds:5 computer:2
+DEFEAT! ricahrd:2 computer:5
+VICTORY! howard:5 computer:3
+VICTORY! ricahrd:5 computer:2
+DEFEAT! ricahr:0 computer:5
+DEFEAT! ds:0 computer:5
+DEFEAT! Richard:1 computer:5
+DEFEAT! dsd:1 computer:5
+DEFEAT! dsd:0 computer:5
+DEFEAT! dsds:1 computer:5
+DEFEAT! dsd:0 computer:5
+DEFEAT! fdjf:2 computer:5
+DEFEAT! ricahrd:2 computer:5
